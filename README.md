@@ -1,6 +1,8 @@
 # Gray Triggerfish Post-Release Mortality Analyses
 
 This repository contains the R code used to generate posterior predictions, figures, and tables for an accepted manuscript examining post-release mortality in gray triggerfish (Balistes capriscus) as a function of capture depth and sea surface temperature (SST).
+All analyses are conducted using the "Hyman et al 2026 Gray Triggerfish Analysis" R File.
+
 **NOTE**: Users must download R code, CJS Stan Models, and relevant CSV files to run on home file. Pre-run model outputs have been uploaded for convenience.
 
 All analyses are based on posterior samples from a Cormack–Jolly–Seber (CJS) survival model with nonlinear covariate effects implemented using a modified softplus transformation.
