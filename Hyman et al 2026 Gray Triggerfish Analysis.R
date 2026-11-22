@@ -1,7 +1,7 @@
 # ==============================================================================
 ## Title: Depth and water temperature drive elevated post-release mortality of gray triggerfish (Balistes capriscus)
 ## Authors: A. Challen Hyman, Chloe Ramsay, Sean Wilms, and Thomas K. Frazer
-## Year: 2025
+## Year: 2026
 ##
 ## Description:
 ##   This script fits a series of Cormack–Jolly–Seber (CJS) tag-recapture models
@@ -117,7 +117,7 @@ softplus_modified <- function(x, theta){
 ################################## Load data ###################################
 #------------------~-------------------~------------------~--------------------#
 ## NOTE: setwd() is intentionally user-specific and should be changed externally
-setwd("C:/Users/ichal/OneDrive/Documents/Hyman gag grouper models/Hyman et al 2025 Discard mortality")
+setwd("~/Hyman et al 2026 Discard mortality")
 
 
 ## Main tag-recapture dataset
