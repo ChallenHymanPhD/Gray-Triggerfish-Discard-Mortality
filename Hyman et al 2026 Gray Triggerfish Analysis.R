@@ -117,7 +117,7 @@ softplus_modified <- function(x, theta){
 ################################## Load data ###################################
 #------------------~-------------------~------------------~--------------------#
 ## NOTE: setwd() is intentionally user-specific and should be changed externally
-setwd("~/Hyman et al 2026 Discard mortality")
+#setwd("your directory here")
 
 
 ## Main tag-recapture dataset
