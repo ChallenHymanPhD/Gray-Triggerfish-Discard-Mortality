@@ -4,7 +4,7 @@ This repository contains the R code used to generate posterior predictions, figu
 
 All analyses are conducted using the "Hyman et al 2026 Gray Triggerfish Analysis" R File.
 
-**NOTE**: Users must download R code, CJS Stan Models, and relevant CSV files to run on home file. Pre-run model outputs have been uploaded for convenience.
+**NOTE**: Users must download R code, CJS Stan Models, and relevant CSV files to run on home file. 
 
 All analyses are based on posterior samples from a Cormack–Jolly–Seber (CJS) survival model with nonlinear covariate effects implemented using a modified softplus transformation.
 ---
